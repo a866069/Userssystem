@@ -4,7 +4,6 @@ import java.util.List;
 import java.util.Map;
 
 import org.apache.logging.log4j.LogManager;
-import org.apache.struts2.interceptor.RequestAware;
 import org.apache.struts2.interceptor.SessionAware;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
